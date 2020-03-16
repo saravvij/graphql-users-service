@@ -1,19 +1,64 @@
 {
-    "users": [
-        {
-            "id": "10",
-            "firstName": "Sam",
-            "age": 20
-        },
-        {
-            "id": "20",
-            "firstName": "Jon",
-            "age": 30
-        },
-        {
-            "id": "30",
-            "firstName": "Will",
-            "age": 35
-        }
-    ]
+  "users": [
+    {
+      "id": "10",
+      "firstName": "Sam",
+      "age": 20,
+      "companyId": 1
+    },
+    {
+      "id": "20",
+      "firstName": "Jon",
+      "age": 30,
+      "companyId": 2
+    },
+    {
+      "id": "30",
+      "firstName": "Will",
+      "age": 35,
+      "companyId": 1
+    },
+    {
+      "firstName": "Sam",
+      "age": 20,
+      "id": "iTt33Ej"
+    },
+    {
+      "firstName": "Sam",
+      "age": 20,
+      "id": "XZKAHuw"
+    },
+    {
+      "firstName": "Sam",
+      "age": 20,
+      "id": "qKHuFtS"
+    },
+    {
+      "firstName": "Sam",
+      "age": 20,
+      "id": "IP-U6X3"
+    },
+    {
+      "firstName": "Sam",
+      "age": 20,
+      "id": "UWzasGJ"
+    },
+    {
+      "firstName": "Sam",
+      "age": 20,
+      "id": "1cdTnRK"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Iphone company"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search company"
+    }
+  ]
 }
