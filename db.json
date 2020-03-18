@@ -2,21 +2,15 @@
   "users": [
     {
       "id": "10",
-      "firstName": "Sam",
-      "age": 20,
-      "companyId": 1
+      "firstName": "Jony",
+      "age": 32,
+      "companyId": 2
     },
     {
       "id": "20",
       "firstName": "Jon",
       "age": 30,
       "companyId": 2
-    },
-    {
-      "id": "30",
-      "firstName": "Will",
-      "age": 35,
-      "companyId": 1
     },
     {
       "firstName": "Sam",
@@ -47,6 +41,16 @@
       "firstName": "Sam",
       "age": 20,
       "id": "1cdTnRK"
+    },
+    {
+      "firstName": "Mac",
+      "age": 30,
+      "id": "CGb1qGy"
+    },
+    {
+      "firstName": "Mac",
+      "age": 30,
+      "id": "NjuMlNK"
     }
   ],
   "companies": [
